@@ -1,0 +1,14 @@
+E:\ChandManzoore\7-csharp\codes\TCPIP\TCPServer\bin\Debug\TCPServer.exe.config
+E:\ChandManzoore\7-csharp\codes\TCPIP\TCPServer\bin\Debug\TCPServer.exe
+E:\ChandManzoore\7-csharp\codes\TCPIP\TCPServer\bin\Debug\TCPServer.pdb
+E:\ChandManzoore\7-csharp\codes\TCPIP\TCPServer\bin\Debug\SuperSimpleTcp.dll
+E:\ChandManzoore\7-csharp\codes\TCPIP\TCPServer\obj\Debug\TCPServer.csprojResolveAssemblyReference.cache
+E:\ChandManzoore\7-csharp\codes\TCPIP\TCPServer\obj\Debug\TCPServer.Properties.Resources.resources
+E:\ChandManzoore\7-csharp\codes\TCPIP\TCPServer\obj\Debug\TCPServer.TCP_Server_IP.resources
+E:\ChandManzoore\7-csharp\codes\TCPIP\TCPServer\obj\Debug\TCPServer.csproj.GenerateResource.Cache
+E:\ChandManzoore\7-csharp\codes\TCPIP\TCPServer\obj\Debug\TCPServer.exe
+E:\ChandManzoore\7-csharp\codes\TCPIP\TCPServer\obj\Debug\TCPServer.pdb
+E:\ChandManzoore\7-csharp\codes\TCPIP\TCPServer\bin\Debug\TCPServer.exe.manifest
+E:\ChandManzoore\7-csharp\codes\TCPIP\TCPServer\bin\Debug\TCPServer.application
+E:\ChandManzoore\7-csharp\codes\TCPIP\TCPServer\obj\Debug\TCPServer.exe.manifest
+E:\ChandManzoore\7-csharp\codes\TCPIP\TCPServer\obj\Debug\TCPServer.application
